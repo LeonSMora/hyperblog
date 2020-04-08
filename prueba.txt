@@ -1,2 +1,2 @@
 Este es el texto que meteremos a git
-pregunta
+vamos a verificar si borra lo de un cambio mas al poner este como HEAD
