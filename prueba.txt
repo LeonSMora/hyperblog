@@ -1,2 +1,2 @@
 Este es el texto que meteremos a git
-Un cambio mas
+Un cambio mas y otro
